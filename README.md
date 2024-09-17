@@ -1,5 +1,9 @@
 # Users application
 
+## Diagram ER
+
+![Diagram](./screenshots/diagram.png)
+
 ## Requirements
 
 - Java 17
@@ -17,3 +21,8 @@ To run the application you can use one of the tasks provided by the Spring Boot 
 
 ### Api Definition
 http://localhost:8080/swagger-ui.html
+
+
+### Swagger
+
+![swagger](./screenshots/swagger.png)
