@@ -26,3 +26,7 @@ http://localhost:8080/swagger-ui.html
 ### Swagger
 
 ![swagger](./screenshots/swagger.png)
+
+### Test
+
+![swagger](./screenshots/tests.png)
